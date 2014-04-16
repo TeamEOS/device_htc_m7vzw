@@ -1,0 +1,3 @@
+add_lunch_combo full_m7vzw-eng
+add_lunch_combo full_m7vzw-userdebug
+
